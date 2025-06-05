@@ -10,3 +10,4 @@ This repository contains notes, assignments, and related materials for the **113
 | No. | Title       | Description                                                                 | Completed Date |
 |-----|-------------|-----------------------------------------------------------------------------|----------------|
 | 1   | Project 1   | [Linux Kernel Building and Scheduling Policy Analysis](./assignments/hw1)   | 2025-05-05     |
+| 2   | Project 2   | [Shortest Job First Scheduling Policy Analysis](./assignments/hw2)   | 2025-06-05     |
